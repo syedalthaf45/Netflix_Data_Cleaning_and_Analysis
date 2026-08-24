@@ -1,6 +1,7 @@
 # Netflix Data Cleaning & Analysis (SQL Server)
 
-This is a project I built to practice cleaning and analyzing messy real-world data using SQL Server. I took the Netflix Movies and TV Shows dataset from Kaggle and worked through the whole process of turning it from a raw, messy CSV into clean, structured tables that I could actually run analysis on.
+This is a ETL  project I built to practice cleaning and analyzing messy real-world data using SQL Server. I took the Netflix Movies and TV Shows dataset from Kaggle and worked through the whole process of turning it from a raw, messy CSV into clean, structured tables that I could actually run analysis on.
+I extracted the data and loaded it into SQL Server by using SQL Alchemy and then Transformed and Analyzed it using SQL inside SQL Server Database.
 
 ## Why I built this
 
