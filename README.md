@@ -4,7 +4,7 @@ This is a project I built to practice cleaning and analyzing messy real-world da
 
 ## Why I built this
 
-The raw dataset looks fine at first glance, but once you start querying it you realize columns like `director`, `cast`, `country`, and `listed_in` all have multiple values crammed into one field, separated by commas. That's a pain to filter or group by, so a big part of this project was just about normalizing the data properly before doing any real analysis.
+The raw dataset looks fine at first glance, but once I started querying it I realized columns like `director`, `cast`, `country`, and `listed_in` all have multiple values crammed into one field, separated by commas. That's a pain to filter or group by, so a big part of this project was just about normalizing the data properly before doing any real analysis.
 
 ## What I used
 
